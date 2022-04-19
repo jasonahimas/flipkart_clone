@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+}
+html body{
+    /* background-color:aqua ; */
+    margin: 0cm;
+    padding: 0%;
+}
+.flipkart img{
+    margin-left: 70px;
+    background-color: rgb(39,118,239);
+    height: 25px;
+    width: 50px;
+}
+.header{
+    background-color:rgb(39,118,239) ;
+    display: flex;
+}
+.search{
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    position: relative;
+    /* background-color: yellow; */
+}
+.search input{
+    width: 300px;
+    height: 20px;
+    font-size: 8px;
+}
+.sicon {
+   position: absolute;
+   right: 5px;
+   color:rgb(39,118,239) ;
+   font-size: 10px;
+}
+.Account{
+    background-color:rgb(39,118,239) ;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+.More{
+    background-color:rgb(39,118,239) ;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.cartl{
+    margin-top: 5px;
+    color: white;
+    margin-left: 30px;
+}
+.cart{
+    margin-top: 5px;
+    color: white;
+    margin-left: 5px;
+}
+.Line3{
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-size: 10px;
+}
+.Line2{
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke
+}
+.gift img{
+    height: 50px;
+    width: 80px;
+}
+.dress img{
+    height: 50px;
+    width: 80px;
+}
+.img{
+    height: 50px;
+    width: 80px;
+}.mob img{
+    height: 50px;
+    width: 80px;
+}.elec img{
+    height: 50px;
+    width: 80px;
+}.bea img{
+    height: 50px;
+    width: 80px;
+}.trav img{
+    height: 50px;
+    width: 80px;
+}.gift img{
+    height: 50px;
+    width: 80px;
+}
+.img1 img{
+    height: 200px;
+    width: 780px;
+}
